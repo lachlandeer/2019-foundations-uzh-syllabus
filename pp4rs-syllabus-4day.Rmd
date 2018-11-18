@@ -95,7 +95,39 @@ Feel free to talk to us before and after each session throughout the course and 
 The following is a preliminary programme.
 It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
 
-              Day 1            Day 2              Day 3            Day 4
+              Day 1             Day 2             Day 3             Day 4
   ----------- ----------------- ----------------- ----------------- ----------------
-  Morning     Terminal      Version Control   R: Data Explor.   Build Tools
-  Afternoon   Version Control          R: Basics   Version Control   R: Econometrics     Build Tools
+  Morning     Terminal          Version Control   R: Data Explor.   Build Tools
+  Afternoon   Version Control   R: Basics         R: Econometrics   Build Tools
+
+
+## Terminal
+The Unix shell has been around longer than most of its users have been alive.
+It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes.
+More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again.
+Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers).
+These lessons will start you on a path towards using these resources effectively.
+
+## Version Control
+Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people.
+Every large software development project relies on it, and most programmers use it for their small jobs as well.
+And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
+
+Teams are not the only ones to benefit from version control: lone researchers can benefit immensely. Keeping a record of what was changed, when, and why is extremely useful for all researchers if they ever need to come back to the project later on (e.g., a year later, when memory has faded).
+
+### The R Programming Language
+
+The goal of this lesson is to teach novice programmers to write modular code and best practices for using R for data analysis.
+R is commonly used in many scientific disciplines for statistical analysis and its array of third-party packages.
+The emphasis of these materials is to give attendees a strong foundation in the fundamentals of R, and to teach best practices for scientific computing: breaking down analyses into modular units, task automation, and encapsulation.
+This workshop will focus on teaching the fundamentals of the programming language R, regression techniques common to applied microeconomics researchers.
+
+## Build Tools
+
+Build Tools can run commands to read files, process these files in some way, and write out the processed files. For example, we can:
+
+* run analysis scripts on raw data files to get data files that summarize the raw data;
+* run visualization scripts on data files to produce plots and statistical tables; and to
+* parse and combine text files and plots to create papers.
+
+Build Tools track the dependencies between the files they create and the files used to create these. If one of the original files (e.g. a data file) is changed, then our Build Tool software knows to recreate, or update, the files that depend upon this file (e.g. a plot).
