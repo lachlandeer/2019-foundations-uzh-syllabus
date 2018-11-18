@@ -95,14 +95,7 @@ Feel free to talk to us before and after each session throughout the course and 
 The following is a preliminary programme.
 It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
 
-              Monday            Tuesday           Wednesday         Thursday         Friday
-  ----------- ----------------- ----------------- ----------------- ---------------- ---------------
-  *Week 1*
-  Morning     Introduction      Version Control   Version Control   Basic Python     Basic Python
-  Afternoon   Terminal          Version Control   Version Control   Basic Python     Basic Python
-  *Week 2*
-  Morning     Python: OOP       Python: Numpy     R: Basics         R: Basics        R: Plotting
-  Afternoon   Python: Pandas    Python: SciPy     R: knitr          R: Data Analy.   Advanced R
-  *Week 3*
-  Morning     R: Econometrics   Build Tools       Web Scraping      GIS data in R    Clean Code
-  Afternoon   R: Econometrics   Build Tools       Web Scraping      Databases: SQL   Code Optimiz.
+              Day 1            Day 2              Day 3            Day 4
+  ----------- ----------------- ----------------- ----------------- ----------------
+  Morning     Terminal      Version Control   R: Data Explor.   Build Tools
+  Afternoon   Version Control          R: Basics   Version Control   R: Econometrics     Build Tools
