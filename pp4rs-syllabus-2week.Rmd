@@ -10,17 +10,15 @@ geometry: margin=1in
 title: "Programming Practices for Research in Economics"
 author:
     - Lachlan Deer
-    - Adrian Etter
     - Julian Langer
-    - Max Winkler
-semester: "Fall 2017"
+semester: "Winter 2019"
 
-email: "programming@econ.uzh.ch"
-web: "pp4rs.github.io/2017-uzh"
+email: "lachlan.deer@gmail.com"
+web: "TBA"
 classroom: "To Be Announced"
 classhours:
-- "9:30am-12:30pm, 2pm - 5pm"
-dates: "28th August - 15th September"
+- "TBA"
+dates: "TBA"
 days: "daily, Monday - Friday"
 
 
