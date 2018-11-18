@@ -101,14 +101,14 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   Afternoon   Version Control   R: Basics         R: Econometrics   Build Tools
 
 
-## Terminal
+### Terminal
 The Unix shell has been around longer than most of its users have been alive.
 It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes.
 More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again.
 Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers).
 These lessons will start you on a path towards using these resources effectively.
 
-## Version Control
+### Version Control
 Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people.
 Every large software development project relies on it, and most programmers use it for their small jobs as well.
 And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
@@ -122,7 +122,7 @@ R is commonly used in many scientific disciplines for statistical analysis and i
 The emphasis of these materials is to give attendees a strong foundation in the fundamentals of R, and to teach best practices for scientific computing: breaking down analyses into modular units, task automation, and encapsulation.
 This workshop will focus on teaching the fundamentals of the programming language R, regression techniques common to applied microeconomics researchers.
 
-## Build Tools
+### Build Tools
 
 Build Tools can run commands to read files, process these files in some way, and write out the processed files. For example, we can:
 
