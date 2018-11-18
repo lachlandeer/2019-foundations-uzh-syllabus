@@ -7,7 +7,7 @@ output:
     template: ./svm-latex-syllabus.tex
 geometry: margin=1in
 
-title: "Programming Practices for Research in Economics"
+title: "Best Practices for Applied Economics Research"
 author:
     - Lachlan Deer
     - Julian Langer
@@ -17,15 +17,15 @@ email: "lachlan.deer@gmail.com"
 web: "TBD"
 classroom: "To Be Announced"
 classhours:
-- "9:30am-12:30pm, 2pm - 5pm"
-dates: "28th August - 15th September"
-days: "daily, Monday - Friday"
+- "TBA"
+dates: "TBA"
+days: "4 days in Winter"
 
 
 fontfamily: mathpazo
 fontsize: 11pt
 header-includes:
-   - \linespread{1.05}
+   - \linespread{1.02}
 ---
 
 
@@ -54,8 +54,8 @@ Next to your economics background, we will only assume that you have written sma
 Knowledge of a specific programming language is not required.
 
 A large part of this course is really about tool choice.
-We will take care in pointing out which language is most appropriate for which problem, and provide you with introductions to three popular choices for data- and computationally intensive computing.
-These are not the only choices available but some knowledge of these languages will make picking up others on your own or through our PhD computing seminars relatively easy.
+We will take care in pointing out which language is most appropriate for which problem, and provide you with introductions to popular choices for data- and computationally intensive computing.
+These are not the only choices available but some knowledge of these languages will make picking up others on your own relatively easy.
 
 #  Course Objectives
 This course has two closely intertwined objectives:
@@ -67,7 +67,8 @@ Learning objectives for specific modules will be provided within the Course Note
 
 # Evaluation
 
-The course is evaluated on a pass/fail basis. There will be a final assignment that is due four weeks after the course concludes. This assignment will count 100\%. More information will be provided before the course begins.
+To be Decided.
+<!-- The course is evaluated on a pass/fail basis. There will be a final assignment that is due four weeks after the course concludes. This assignment will count 100\%. More information will be provided before the course begins. -->
 
 # Rules of the Game
 
@@ -83,12 +84,12 @@ Due to the intensive nature of the course, we have decided not to schedule offic
 Feel free to talk to us before and after each session throughout the course and ask many questions during each session.
 
 
-# Times and Locations
+<!-- # Times and Locations
 
 * Dates: Daily from August 28th until September 15th (excluding weekends)
 * Morning Session: 9.30 - 12.30
 * Afternoon Session: 14.00 - 17.00
-* Location: TBA
+* Location: TBA -->
 
 # Preliminary Programme
 
