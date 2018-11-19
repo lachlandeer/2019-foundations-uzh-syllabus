@@ -118,7 +118,7 @@ And it isn’t just for software: books, papers, small data sets, and anything t
 
 Teams are not the only ones to benefit from version control: lone researchers can benefit immensely. Keeping a record of what was changed, when, and why is extremely useful for all researchers if they ever need to come back to the project later on (e.g., a year later, when memory has faded).
 
-## Python
+### Python
 
 The goal of this lesson is to teach novice programmers to write modular code and best practices for using Python.
 Python is commonly used in many scientific disciplines for applied theoretical and statistical analysis due to it's wide array of third-party packages.
