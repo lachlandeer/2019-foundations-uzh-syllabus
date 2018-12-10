@@ -13,13 +13,13 @@ author:
     - Julian Langer
 semester: "Winter 2019"
 
-email: "lachlan.deer@gmail.com"
-web: "TBD"
+email: "pp4rs.contact@gmail.com"
+web: "pp4rs.github.io/2019-foundations-uzh"
 classroom: "To Be Announced"
 classhours:
-- "TBA"
-dates: "TBA"
-days: "4 days in Winter"
+- "9:30am-12:30pm, 2pm - 5pm"
+dates: "13 Feb 2019 to 16 Feb 2019"
+days: "daily, Wednesday to Saturday"
 
 
 fontfamily: mathpazo
