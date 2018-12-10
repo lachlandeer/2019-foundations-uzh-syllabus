@@ -33,18 +33,17 @@ header-includes:
 
 Much of modern economics and business research involves the researcher spending their lives in front of a computer -- analysing data or simulating theoretical models.
 
-Unfortunately, it is rare that they have been taught how to do this well.
-Exposure to programming languages in the current graduate curriculum is most often limited to the simple use of Stata and Matlab to solve 'toy' examples designed to illustrate a theoretical result or implement a method with known properties and ex-ante known results.
+<!-- Unfortunately, it is rare that they have been taught how to do this well. -->
+Exposure to programming languages in the current graduate curricula is most often limited to the simple use of Stata and Matlab to solve 'toy' examples designed to illustrate a theoretical result or implement a method with known properties and ex-ante known results.
 These skills do not scale up in a straightforward manner to handle complex projects that make up research papers, PhD theses or typical work in government or private business settings.
 As a result, graduate researchers in economics and business spend too much time wrestling with the software required to produce their research.
 
 This course is designed to assist graduate and early career researchers become more fluent in conducting computational research.
 It is aimed at PhD students who expect to write their theses in a field that requires modest to heavy use of computation.
 Examples include applied microeconomics, econometrics, macroeconomics, computational economics.
-We introduce students to programming methods that will substantially reduce their time spent programming while at the same time making their programs more dependable and their results reproducible.
+We introduce students to software and programming methods that will substantially reduce their time spent programming while at the same time making their programs more dependable and their results reproducible.
 
-The course draws extensively on some simple techniques that are the backbone of modern software development which most economists
-are simply not aware of.
+The course draws on some simple techniques that are the backbone of modern software development which most economists are simply not aware of.
 It shows the usefulness of these techniques by means of hands-on examples for a wide variety of economic and econometric applications.
 
 # Target Audience
