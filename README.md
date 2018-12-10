@@ -1,4 +1,4 @@
-# Syllabus: Programming Practices for Research Students
+# Syllabus: Programming Practices for Research Students - Foundations
 
 ## Meta-Information
 
