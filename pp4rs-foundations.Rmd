@@ -66,8 +66,8 @@ Learning objectives for specific modules will be provided within the Course Note
 
 # Evaluation
 
-To be Decided.
-<!-- The course is evaluated on a pass/fail basis. There will be a final assignment that is due four weeks after the course concludes. This assignment will count 100\%. More information will be provided before the course begins. -->
+<!-- To be Decided. -->
+The course is evaluated on a pass/fail basis. There will be a final assignment that is due four weeks after the course concludes. This assignment will count 100\%. More information will be provided before the course begins.
 
 # Rules of the Game
 
