@@ -52,9 +52,10 @@ This course is intended for PhD students who are transitioning from coursework t
 Next to your economics background, we will only assume that you have written small pieces of code before, like Stata .do-files or Matlab .m-files for problem sets in your Masters degree or first-year PhD classes.
 Knowledge of a specific programming language is not required.
 
-A large part of this course is really about tool choice.
-We will take care in pointing out which language is most appropriate for which problem, and provide you with introductions to popular choices for data- and computationally intensive computing.
-These are not the only choices available but some knowledge of these languages will make picking up others on your own relatively easy.
+A large part of this course is about acquiring skills to enhance the reproduciblity of results generated from computational processes.
+We will take care in pointing out the current challenges in acheiving reproducible research workflows, and provide you with introductions to popular choices for data- and computationally intensive computing.
+The tools introduced are not the only choices available but are well suited to the workflow of typical research projects in economics and business schools.
+Knowledge of the tools introduced in this course will make picking up others on your own relatively easy.
 
 #  Course Objectives
 This course has two closely intertwined objectives:
