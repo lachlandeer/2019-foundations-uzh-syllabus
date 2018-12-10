@@ -3,9 +3,9 @@
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Programming Practices for Research in Economics](https://github.com/pp4rs)
-*   Institute: Dept of Economics, Uni Zurich
-*   Current Version: [Winter 2019 edition](TBD)
+*   Course: [Programming Practices for Research in Economics - Foundations](https://github.com/pp4rs)
+*   Institute: [Dept of Economics, Uni Zurich](https://www.econ.uzh.ch/en.html)
+*   Current Version: [Winter 2019 edition](https://pp4rs.github.io/2019-foundations-uzh)
 
 ## Want to Contribute?
 
