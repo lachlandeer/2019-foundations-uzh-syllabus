@@ -18,7 +18,7 @@ rule all:
     output:
         pdf = "foundations-syllabus.pdf"
     log:
-        "logs/4-day.Rout"
+        "logs/foundations-syllabus.Rout"
     shell:
         "{runR} {input.runner} {input.rmd} {output.pdf} > {log} {logAll}"
 
