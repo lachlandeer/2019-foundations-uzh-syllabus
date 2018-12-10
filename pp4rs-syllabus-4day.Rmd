@@ -7,7 +7,7 @@ output:
     template: ./svm-latex-syllabus.tex
 geometry: margin=1in
 
-title: "Best Practices for Applied Economics Research"
+title: "Programming Practices for Research in Economics: Foundations"
 author:
     - Lachlan Deer
     - Julian Langer

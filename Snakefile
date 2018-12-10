@@ -9,34 +9,19 @@ logAll = "2>&1"
 
 # --- Main Build Rules --- #
 
+
 rule all:
     input:
-        short_syll = "syllabus-4day.pdf",
-        long_syll  = "syllabus-2week.pdf"
-
-rule four_day:
-    input:
         runner = "knit_rmd.R",
-        rmd    = "pp4rs-syllabus-4day.Rmd",
+        rmd    = "pp4rs-foundations.Rmd",
         template = "svm-latex-syllabus.tex"
     output:
-        pdf = "syllabus-4day.pdf"
+        pdf = "foundations-syllabus.pdf"
     log:
         "logs/4-day.Rout"
     shell:
         "{runR} {input.runner} {input.rmd} {output.pdf} > {log} {logAll}"
 
-rule two_week:
-    input:
-        runner = "knit_rmd.R",
-        rmd    = "pp4rs-syllabus-2week.Rmd",
-        template = "svm-latex-syllabus.tex"
-    output:
-        pdf = "syllabus-2week.pdf"
-    log:
-        "logs/2week.Rout"
-    shell:
-        "{runR} {input.runner} {input.rmd} {output.pdf} > {log} {logAll}"
 
 # --- Cleaning Rules --- #
 
